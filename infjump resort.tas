@@ -3,7 +3,7 @@ By Blobbity21, Minecire
 Set, ExtendedVariantMode.JumpCount, 6
 console load 3
 
-#Start
+#Section Start
    1
 #lvl_s0
   61
@@ -330,9 +330,8 @@ console load 3
   13,R
   40
 
-#lvl_02-a
+#lvl_02-a (2)
    2,R
-
   15,L
   11,R
   22,R,D
@@ -690,7 +689,7 @@ console load 3
   17,L
   40
 
-#lvl_07-b
+#lvl_07-b (2)
    9,L
    1,L,J
    1,L,K
@@ -713,7 +712,7 @@ console load 3
   19,D
   40
 
-#lvl_07-a
+#lvl_07-a (2)
   14,L,D
   13,R,D
   10,L
@@ -740,7 +739,7 @@ console load 3
    1,R,J
   40
 
-#Huge Mess
+#Section Huge Mess
 #lvl_08-a
    1,R,K
    1,R,J
@@ -1103,7 +1102,7 @@ console load 3
   12,K
   40
 
-#lvl_10-x
+#lvl_10-x (2)
   12,J
   12,R,K
    7,J,G
@@ -1140,7 +1139,7 @@ console load 3
    8,R,K
   40
 
-#lvl_09-b
+#lvl_09-b (2)
   12,J,G
    1,L,K
    1,L,J
@@ -1481,11 +1480,11 @@ console load 3
   17,D
   40
 
-#lvl_10-c
+#lvl_10-c (2)
   43,R,D
   40
 
-#lvl_09-b
+#lvl_09-b (3)
   14,R,D
    1,R,J
    1,R,K
@@ -1809,7 +1808,7 @@ console load 3
    1,L,J
   40
 
-#lvl_09-b
+#lvl_09-b (4)
    1,L,J
    1,L,K
    1,L,J
@@ -1958,7 +1957,7 @@ console load 3
    1,J,G
   40
 
-#Elevator Shaft
+#Section Elevator Shaft
 #lvl_09-d
    1,J
    9,R,J
@@ -2308,7 +2307,7 @@ console load 3
    1,L,K
   40
 
-#Presidential Suite
+#Section Presidential Suite
 #lvl_00-d
    1,S
    1,D,J

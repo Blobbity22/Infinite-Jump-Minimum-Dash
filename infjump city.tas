@@ -3,7 +3,7 @@ By Blobbity21
 Set, ExtendedVariantMode.JumpCount, 6
 console load 1
 
-#Start
+#Section Start
    1
 #lvl_1
   88
@@ -257,7 +257,7 @@ console load 1
    5,K
   43
 
-#Crossing
+#Section Crossing
 #lvl_6
   12,J
    1,R,K
@@ -531,7 +531,7 @@ console load 1
    1,R,K
   40
 
-#Chasm
+#Section Chasm
 #lvl_9b
    1,R,J
    1,R,K
