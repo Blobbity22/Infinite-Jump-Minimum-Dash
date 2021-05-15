@@ -3,8 +3,8 @@ By Minecire
 Set, ExtendedVariantMode.JumpCount, 6
 console hard 6
 
-#Section Start
    1
+#Start
 #lvl_a-00
   12,L,K
    1,L,J
@@ -1507,7 +1507,6 @@ console hard 6
    1,R,K
    1,R,J
    1,R
-***
   40
 
 #lvl_c-04
@@ -1704,7 +1703,6 @@ console hard 6
   12,J
   12,K
    6,J
-***
    6,L,J
    7,L,K
   40

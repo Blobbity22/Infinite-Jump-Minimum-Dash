@@ -3,8 +3,8 @@ By Blobbity21, Minecire
 Set, ExtendedVariantMode.JumpCount, 6
 console load 6
 
-#Section Start
    1
+#Start
 #lvl_start
  110
    1,S
@@ -231,7 +231,6 @@ console load 6
    1,R,K
    1,R,J
    1,R,K
-***
    1,R,J
    1,R,K
   40
@@ -395,8 +394,3 @@ console load 6
   15,L
  257
    1,J
-  62
-   1,S
-   1,U,J
-   1,O
-  31

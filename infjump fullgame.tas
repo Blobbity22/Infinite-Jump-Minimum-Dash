@@ -1,0 +1,47 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#If you're using Everest, turn off show Mod Options in game
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,infjumpPrologue,Start
+
+Read,Load1A
+
+Read,infjumpCity,Start
+
+Read,LoadANoCollects
+
+Read,infjumpSite,Start
+
+Read,LoadANoCollects
+
+Read,infjumpResort,Start
+
+Read,LoadA
+
+Read,infjumpRidge,Start
+
+Read,LoadA
+
+Read,infjumpTemple,Start
+
+Read,LoadANoCollects
+
+Read,infjumpReflectionA,Start
+
+Read,LoadBFromA
+
+Read,infjumpReflectionB,Start
+
+Read,LoadAFromB,Start,Summit
+
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,infjumpSummit,Start

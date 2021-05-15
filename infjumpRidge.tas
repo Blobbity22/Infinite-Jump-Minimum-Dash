@@ -3,8 +3,8 @@ By Blobbity21
 Set, ExtendedVariantMode.JumpCount, 6
 console load 4
 
-#Section Start
    1
+#Start
 #lvl_a-00
   69
   12,J
