@@ -251,7 +251,8 @@ Set, ExtendedVariantMode.JumpCount, 6
    1,L,J
    1,L,K
    1,L,J
-   4,L,K
+   1,L,K
+   2,L,J,G
   30,L,D
   40
 
@@ -2075,7 +2076,7 @@ Set, ExtendedVariantMode.JumpCount, 6
    3,D,G
    1,G
    1,R,D
-   9,L,D,Z
+   9,L,D,X
    1,R,J
    1,R,K
    1,R,J
@@ -2216,10 +2217,11 @@ Set, ExtendedVariantMode.JumpCount, 6
    1,R,J,G
    1,R,K,G
    5,R,G
-   2,R
-   5
-   7
+   1,R
+   6
+   1
+   6
    1,S
    1,D,J
   18
-#2:41.279
+#2:41.262

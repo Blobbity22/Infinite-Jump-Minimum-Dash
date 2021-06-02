@@ -5,35 +5,35 @@
 
 Read,StartFullGameFile
 
-Read,infjumpPrologue,Start
+Read,Prologue,Start
 
 Read,Load1A
 
-Read,infjumpCity,Start
+Read,1A,Start
 
 Read,LoadANoCollects
 
-Read,infjumpSite,Start
+Read,2A,Start
 
 Read,LoadANoCollects
 
-Read,infjumpResort,Start
+Read,3A,Start
 
 Read,LoadA
 
-Read,infjumpRidge,Start
+Read,4A,Start
 
 Read,LoadA
 
-Read,infjumpTemple,Start
+Read,5A,Start
 
 Read,LoadANoCollects
 
-Read,infjumpReflectionA,Start
+Read,6A_tape,Start
 
 Read,LoadBFromA
 
-Read,infjumpReflectionB,Start
+Read,6B,Start
 
 Read,LoadAFromB,Start,Summit
 
@@ -44,4 +44,5 @@ Add 29
   32
 Add 1
 
-Read,infjumpSummit,Start
+Read,7A,Start
+***

@@ -1,0 +1,99 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#If you're using Everest, turn off show Mod Options in game
+#Start from Begin
+
+#NOT FULLY SYNCED
+#epilogue menuing
+#has not been TASed
+
+Read,StartFullGameFile
+
+Read,Prologue,Start
+
+Read,Load1A
+
+Read,1a_tape,Start
+
+Read,LoadBFromA,Overworld
+
+Read,1B,Start
+
+Read,LoadAFromB
+
+Read,2H,Start
+
+Read,2A,Start
+
+Read,LoadA
+
+Read,3AH,Start
+
+Read,LoadA
+
+Read,4A,Start
+
+Read,LoadA
+
+Read,5A,Start
+
+Read,LoadANoCollects
+
+Read,6A_tape,Start
+
+Read,LoadBFromA
+
+Read,6B,Start
+
+Read,LoadAFromB,Start,Summit
+
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,7A,Start
+
+Read,Epilogue,Start
+
+Read,LoadCoreFromSummit,Start
+
+Read,8A,Start
+
+Read,LoadAFromB,Start,SkipExit
+
+  51
+   1,S
+ 394
+   1,J
+  43
+   1,J
+  46
+Add 1
+
+Read,9,Start
+
+ 500
+   1,J
+  31
+
+#Epilogue
+  51
+Add 58
+   1,S
+  52
+   1,X
+  42
+   1,L
+   9
+   1,L
+   9
+   1,J
+  43
+   1,J
+Add 1
+ 115
+
+Read,Epilogue,Start
