@@ -1,6 +1,7 @@
-By Blobbity21, Minecire
+#By Lmjacks, Blobbity21, and Minecire
 
 Set, ExtendedVariantMode.JumpCount, 6
+
 console load 6
    1
 
@@ -83,23 +84,35 @@ console load 6
  170,U
    1,S
    1,D,J
-  17
+  18
 
 #Section Lake
 #lvl_00
-  22
+  21
   77,U
-  12,J
+   1,L,J
+   1,L,K
+   1,L,J
+  12,L,K
+  12,L,J
+  12,L,K
+   5,L,J
+   2,R,J
+   1,L,J
+   4,J
+   4,K,G
+   1,J
+   5,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
   12,K
   12,J
   12,K
-  12,J
-  12,K
-  12,J
-   7,R,K
-   5,K
-  12,R,J
-   3,K
+   2,R,J
+   5,J
   43
 
 #lvl_01
@@ -113,54 +126,73 @@ console load 6
    1,R,K
    1,R,J,G
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,L,J
+   8,R,J
+   1,J
    1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-  26
-  30,F,0
-  36,F,355
+  28,L,U
+   1,F,320
+  56,F,353
+   1,F,354.4
   26,F,0
-   3,F,330
-   6,F,300
-  20,F,285
+  11,F,307
+   1,F,303
+  24,F,292.8
    1,L,J
    1,L,K
    1,L,J
    1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-  12,L,J
-   5,K
+   2,L,J
+   2,L,K
+   1,K
+   2,L,J
+   1,K
+   4,R,J,G
+   4,R,K
   40
 
 #lvl_02
-  12,J
-  12,K
-   4,L,J
-   8,J
-   3,K
-  26
-  23,F,0
-  16,F,330
-  19,F,322
-   7,F,0
-  33,F,36
-  23,F,0
-  12,J
-  12,K
-  12,J
-   5,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J,G
+   1,L,K
+   1,L,J
+   2,L,K
+   1,J,G
+  10,L,J
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   4,R,J
+   1,R,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   2,R,K
+  27,L,U
+  13,F,343
+  31,F,324
+   1,F,329
+   5,F,0
+  35,F,26.4
+   1,F,24
+   7,F,18
+   1,F,15
+  25,F,0
+   1,K
+  15,L
    1,L,J
    1,L,K
    1,L,J
@@ -176,37 +208,34 @@ console load 6
    1,L,J
    1,L,K
    1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
+   1,L,K,G
    1,L,J
    1,L,K
    1,L,J
   40
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+
+#lvl_03
    1,L,J
    1,L,K
    1,L,J
-   1,L,K
+   3,L,K
    1,L,J
    1,L,K
-   1,L,J
+   2,L,J
    1,L,K
    1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-  12,J
+   7,L,K
    1,K
-  10,L,K
+   1,L,K
+   9,J,G
+   1,R,J
+   1,L,J
+  10,K,G
+   1,R
+   1,R,J
+   1,R,K
+   1,R,J
+   2,R,K
    1,R,J
    1,R,K
    1,R,J
@@ -221,11 +250,7 @@ console load 6
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   7,R
+   3,R
    1,R,K
    1,R,J
    1,R,K
@@ -235,33 +260,39 @@ console load 6
    1,R,K
   40
 
-#lvl_02 (2)
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  12,K
+#lvl_02
+   6,J
+   8,K
+   4,L,K
    1,J
-  26
-  37,F,339
-   6,F,0
-   7,F,50
-  15,F,90
-   9,F,130
-  33,F,160
-   9,F,130
-   9,F,90
-   9,F,50
-   9,F,0
-  53,F,350
-  30,F,326
+   2,L,K
+  27,L,U
+  26,F,350
+   1,F,352
+  10,F,50
+  10,F,72
+   4,F,90
+   7,F,109
+   1,F,111.1
+   1,F,116.3
+  34,F,158.3
+   1,F,155.1
+   2,F,140
+  10,F,90
+   1,F,86
+   1,F,81
+   1,F,76
+   9,F,54
   10,F,0
+  60,F,344.25
+  15,F,323
+   1,F,325
+  13,F,0
   40
 
 #lvl_02b
-   2,F,0
+   8,F,0
+  16
   12,J
   12,K
   12,J
@@ -282,23 +313,29 @@ console load 6
   12,K
   12,J
   12,K
-  12,L,J
-  12,K
   12,J
   12,K
   12,J
   12,K
+   3,J
+   1,R,K
+   1,R,J
+   1,R,K
+   3,R,J,G
+   4,R,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
   12,J
   12,K
-  12,J
-  12,K
-  12,J
-   3,K
+  11,J
   43
 
 #Section Hollows
 #lvl_04
-  12,J
+   9,L,J
+   3,J
   12,K
   12,J,G
   12,K,G
@@ -359,6 +396,7 @@ console load 6
    1,L,J
    1,L,K
    1,L,J
+#49.657(2921)
   40
 
 #lvl_04e
@@ -392,5 +430,10 @@ console load 6
    1,L,J
    1,L,K
   15,L
+#51.068(3004)
+
+#orig
+#52.122(3066)
+
  257
    1,J

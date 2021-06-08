@@ -1,14 +1,14 @@
-#by lmjacks
+#By Lmjacks
 
 #be warned
 #next command
 #nukes save file
 console clrsav
 
+Set, ExtendedVariantMode.JumpCount, 6
+
 console load 5
    1
-
-Set, ExtendedVariantMode.JumpCount, 6
 
 #console load 5 -832 1688
 #play,Section Unraveling,37

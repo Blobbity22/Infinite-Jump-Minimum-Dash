@@ -1,14 +1,16 @@
-#old site heart grab for true ending
-#by minecire
+#By minecire
+
+#old site heart grab
+#for true ending
 
 Set, ExtendedVariantMode.JumpCount, 6
 
 console load 2
    1
+
 #Start
- 190
-#Start checkpoint
 #lvl_s1
+ 190
   12,J
   12,K
   12,J
@@ -21,6 +23,7 @@ console load 2
   12,K
    1,J
   40
+
 #lvl_s0
   12,L,K
   12,L,J
@@ -32,6 +35,7 @@ console load 2
   12,L,J
    1,L,K
   40
+
 #lvl_s1
   12,L,J
   12,K
@@ -43,6 +47,7 @@ console load 2
   12,K
    1,J
   40
+
 #lvl_s2
    1,R,K
    1,R,J

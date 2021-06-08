@@ -1,10 +1,11 @@
-By Blobbity21
+#By Blobbity21 and Lmjacks
 
 Set, ExtendedVariantMode.JumpCount, 6
+
 console load 0
    1
-#Start
 
+#Start
 #lvl_0
   61
    1,R,J
@@ -31,6 +32,13 @@ console load 0
    1,R,K
    1,R,J
    1,R,K
+   4,R,J
+   3,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
    1,R,J
    1,R,K
    1,R,J
@@ -47,28 +55,11 @@ console load 0
   40
 
 #lvl_1
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
    1,R,K
    1,R,J
    1,R,K
@@ -88,19 +79,10 @@ console load 0
    1,R,K
    1,R,J
    1,R,K
+   1,R,J
   40
 
 #lvl_2
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
    1,R,J
    1,R,K
    1,R,J
@@ -131,9 +113,11 @@ console load 0
    1,R,J
    1,R,K
    1,R,J
-   1,K
-  18,L
-  22,L,D
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  41,L
    1,S
    1,D,J
  232

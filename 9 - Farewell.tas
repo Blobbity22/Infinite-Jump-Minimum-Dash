@@ -1,28 +1,16 @@
-#funny farewell low dash infinite jump tas
-#by minecire
+#By Minecire
 
-#Segments:
-#Start - 0/20.604
-#Singular - 0/23.987
-#Power Source - 2/37.451
-#Remembered - 1/48.654
-#Event Horizon - 8/58.055
-#Determination - 1/71.927
-#Stubbornness - 0/18.292
-#Reconciliation - 5/43.503
-#Farewell - 0/11.781
+#dashes by cp:
+#0/0/2/1/8/1/0/5/0
 
-#Total - 17/334.254
+Set, ExtendedVariantMode.JumpCount, 6
 
 console load 10
    1
-Set, ExtendedVariantMode.JumpCount, 6
 
 #Start
-
-  97
-#Start checkpoint
 #lvl_intro-00-past
+  97
    1,R,J
    1,R,K
    1,R,J

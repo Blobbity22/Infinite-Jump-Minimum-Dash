@@ -1,17 +1,14 @@
-#core tas low dash infinite jump blah blah blah
-#by minecire
+#By minecire
 
 console cheat
 Set, ExtendedVariantMode.JumpCount, 6
 
 console load 9
    1
-#Start
 
-  54
-#Start checkpoint
+#Start
 #lvl_00
-  32
+  86
    1,R,J
    1,R,K
    1,R,J

@@ -1,12 +1,14 @@
-By Blobbity21
+#By Blobbity21
 
 Set, ExtendedVariantMode.JumpCount, 6
+
 console load 7
    1
 
 #Start
 #lvl_a-00-intro
  246
+
 #lvl_a-00
   78
   12,K
