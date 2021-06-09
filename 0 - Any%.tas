@@ -5,7 +5,7 @@
 
 Read,StartFullGameFile
 
-Read,Prologue,Start
+Read,0 - Prologue,Start
 
 Read,Load1A
 
