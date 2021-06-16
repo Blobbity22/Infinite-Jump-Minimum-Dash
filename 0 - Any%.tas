@@ -1,6 +1,8 @@
 #To sync:
 #Use Celeste v.1.4.0.0
-#If you're using Everest, turn off show Mod Options in game
+#If you're using Everest
+#turn off show Mod Options in game
+#Have Extended Variants installed
 #Start from Begin
 
 Read,StartFullGameFile
@@ -29,7 +31,7 @@ Read,5A,Start
 
 Read,LoadANoCollects
 
-Read,6A_tape,Start
+Read,6AC,Start
 
 Read,LoadBFromA
 

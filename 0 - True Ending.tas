@@ -13,7 +13,7 @@ Read,Prologue,Start
 
 Read,Load1A
 
-Read,1a_tape,Start
+Read,1AC,Start
 
 Read,LoadBFromA,Overworld
 
@@ -39,7 +39,7 @@ Read,5A,Start
 
 Read,LoadANoCollects
 
-Read,6A_tape,Start
+Read,6AC,Start
 
 Read,LoadBFromA
 
