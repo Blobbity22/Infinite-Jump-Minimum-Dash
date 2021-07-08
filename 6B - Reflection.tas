@@ -1532,30 +1532,31 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K
-  39,L
-   2,L
+  40,R
+   1,J
+   1,R,K
+   1,R,J
+   1,R,K
+  24,R,D
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-  18,R
-   9,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R
   40
 
 #lvl_c-04
-  11,R
-   5,L
-   5,D
-  11,L,D
+   3,R
+   1
+   4,R
+  21,L,D
    1,L,J
-  11,L
-   7,R
+   7,L
+   2
+   2,L
+   1
+   1,L
+   5,R
+   1,R
   10,R,D
    1,R,K
    1,R,J
@@ -1567,7 +1568,7 @@ AnalogMode,Precise
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
+   2,L,K
    1,L,J
    1,L,K
    1,L,J
@@ -1578,40 +1579,43 @@ AnalogMode,Precise
    1,L,K
    1,L,J
    1,L,K
-   1,L,J
-  12,L,J
+   1,J
+   7,K
+   1,L,K
+   3,R,K
+   1,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-  18,R
-   5,R
-   8,R,D
-  32,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  18,R
-  15,R,D
-  13,D
-   8,R,D
+  13,R
+   5
+  12,D
   32,L
    1,L,J
-  26,R,D
-  26,L,D
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   6,L
-  11
    1,L
-  24,R,D
+   1,L,K
+   1,J
+  18,R
+   6,R,D
+   6,D
+   1,R,D
+   8,D
+  14,R,D
+  32
+   1,J
+  17
+   1,L,D
+   1,D
+  28,L,D
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+  17,L
+  29,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -1622,8 +1626,7 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K
-  15,R
-   1,R,K
+  15,R,D
    1,R,J
    2,R,K
    1,R,J
@@ -1654,14 +1657,119 @@ AnalogMode,Precise
 
 #Section Reprieve
 #lvl_d-00
+   1,R,J
+   4,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
    2,R,J
-   1,R
-  17,L
-   7,L,D
+   1,K
+   1,L,J,G
+   1,L,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
+  13,R
+   1,R,J
+   1,R,K
+  40,R,D
+   4,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   6,R
+   1
+   3,R
+   1,R,K
+  13,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,J
+   1,L,K
+   1,L,J
+  12,L,K
+  12,L,J
+  12,K
+  12,J
+  12,K
+   1,J
+   1,L,J
+  40
+
+#lvl_d-01
+  12,J
+   2,K
+   3,L,K
+   1,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   3,R,J
+  21,R
    1,R,D,J
    1,R,K
    1,R,J
    1,R,K
+   6,R
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  32,L
+   1,L,J
+  23,L,D
+   1,L
+  10,L,G
+   1,J,G
+   1,K,G
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   3,R
+  32,R
    1,R,J
    1,R,K
    1,R,J
@@ -1673,179 +1781,16 @@ AnalogMode,Precise
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
+   2
+  29,R,D
+   1,L,D
    1,J
-   5,L,J
-   1,R,K
+   1,K,G
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  18,R
-  19,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  13,R
-   1,L,J
-   1,L,K
-   1,L,J
-   2,L
-  14,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  12,J
-  12,K
-   6,J
-   6,L,J
-   7,L,K
-  40
-
-#lvl_d-01
-   8,L
-   8,J,G
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   9,K,G
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  18,R
-   9,R,D
-  32,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  18,R
-  12,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  32,R
-   1,R,J
-  18,R
-  12,R,D
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  18,R
   39,R
-  17,R
-   3
-   5,R
-   7,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -1857,20 +1802,27 @@ AnalogMode,Precise
    1,R,J
    1,R,K
    1,R,J
+  26,R,D
    1,R,K
    1,R,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   7,R
+   1,R,K
+   2,R
   40
 
 #lvl_d-02
-   1
-   9,L
-   2,L,D
-  22,R,D
+  26,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   6,R
+   1,R,J
+  30,R,D
+  33,L
+   1,R,J
+  32,R,D
+   1,R
+   1,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -1881,88 +1833,77 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,L,K
-   1,L,J
-   9,L
-   9,R
-   4,R,D
-  32,L
-   2,L
-  19,R
-  15,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,L,K
    1,L,J
    1,L,K
    1,L,J
    1,L,K
-  12,L,J
-  12,L,K
+   1,L,J
+   2,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+  12,K
   12,J
-   4,L,K
-   8,K
+   3,L,K
+   3,K
+   1,L,K
+   3,K
+   1,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  36,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
    2,J
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  15,R
-   3
-   6,D
-  13,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
    1,R,K
    6,R,J
   39,R
-   1,R,J
-   1,R,K
+   1,J
+   1,K
    1,R,J
    1,R,K
   18,R
-  17,R,D
+  11,R,D
    1,R,J
    1,R,K
    1,R,J
    1,R,K
+   1,R,J
+   1,R
   40
 
 #lvl_d-03
-  18,R
-  19,R,D
+   5,R,D
+   1,D
+  25,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -1971,9 +1912,7 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   2,R,K
-   1,R,J
+   2,R,J
    1,R,K
    1,R,J
    1,R,K
@@ -1983,9 +1922,9 @@ AnalogMode,Precise
    1,R,K
    1,R,J
   32
-  21
-  18,D
-  25,L,D
+   1,R,D
+  37,D
+  26,L,D
    1,L,J
    1,L,K
    1,L,J
@@ -1994,7 +1933,7 @@ AnalogMode,Precise
    1,L,K
    1,L,J
    1,L,K
-  14,L
+  13,L
    1,L,J
    1,L,K
    1,L,J
@@ -2004,10 +1943,13 @@ AnalogMode,Precise
    1,L,J
    1,L,K
    1,L,J
-  32,R
-  21,R
+   1,L,K
+  51,R
+   1
+   1,R
+   6,D
    6,R,D
-   7,D
+   1,D
   27,R,D
    1,R,J
    1,R,K
@@ -2030,9 +1972,9 @@ AnalogMode,Precise
    1,R,J
    1,R,K
   32
-  21
-  28,D
-  21,L,D
+   1,R,D
+  46,D
+  22,L,D
    1,L,J
    1,L,K
    1,L,J
@@ -2052,14 +1994,10 @@ AnalogMode,Precise
    1,L,J
    1,L,K
    1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
+   6,L
   32
-  21
-  22,D
+   1,L,D
+  40,D
   17,R,D
    1,R,J
    1,R,K
@@ -2083,12 +2021,8 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
+   4,R
   39,R
-  21,R
-  13,R,D
    1,R,K
    1,R,J
    1,R,K
@@ -2096,6 +2030,7 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K
+  28,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -2108,34 +2043,8 @@ AnalogMode,Precise
   40
 
 #lvl_d-04
-   1,R,K
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   6,L
-   6,R
-   1,L,J
-   1,L,K
-   1,L,J
-  15,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,L,K
-   1,L,J
-   1,R,K
-   1,R,J
-   1,R,K
-   3,L
-  15,R
-   9,R,D
-   1,R,J
+   1,R
    1,R,K
    1,R,J
    1,R,K
@@ -2143,124 +2052,167 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   7,R,U,X
-  15,R
-   6,R,D
-  12,R,J
-  12,L,K
-   1,L,J,G
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  18,R
-  14,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,J
-   8,L
-  10,R
-  10,R,D
-   1,R,J
-   1,R,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   2,R,J
-   2,R,K
-   2,R,J
-   2,R,K
-   2,R,J
-   2,R,K
-   2,R,J
-   2,R,K
-   2,R,J
-   2,R,K
-   2,R,J
-   1,R,K
-   1,R,J
-   1,K
-  18,L
-  12,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  18,L
-   5,R,D
-  39,R
-  21,R
-  14,R,D
-   1,R,D,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
    3,R
+  10
+   1,R,K
+   3,L,J
+   3,R
+  12
+   1,L,J
+   1,L,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  25,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   6,R,U,Z
+   1,L,J
+   3,L
+   1,R,J
+   7,R
+   1,R,J
+   5,R
+   2
+   2,R
+   1,R,J
+   7,R
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
+   1,L,K,G
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,R
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  18,R
+  19,R,D
+   2,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,L,K
+   1,R,J
+   1,R
+  17
+   1,R,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   2,L,K
+   4,R,J
+   1,L,J
+   2,R,J
+   2,K
+   1,L,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,L,K
+  25,D
+   5,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  23,R,D
+  39,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  24,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
   40
 
 #lvl_d-05
-  14,R
-   6,R,D
-   1,R,D,K
    1,R,J
+   1,R,K
+  17,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R
    1,R,K
    1,R,J
    1,R,K
@@ -2296,76 +2248,82 @@ AnalogMode,Precise
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  11,D,X
+  13,R,D,X
   12
-   3,D,X
-  61,L,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  59
+   3,R,D,X
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+  47,L,D
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+  60
    1,J
-#2:38.389(9317)
-
-#orig
-#2:46.396
+#2:35.958(9174)
